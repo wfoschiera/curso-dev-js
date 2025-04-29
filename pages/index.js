@@ -8,3 +8,7 @@ function Home() {
 }
 
 export default Home;
+
+function test() {
+  console.log("identação errada, aspas duplas.");
+}
